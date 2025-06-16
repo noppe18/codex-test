@@ -1,0 +1,7 @@
+{
+  "logGroups": [
+    "/aws/ecs/tpl-jpp-web01",
+    "/aws/ecs/tpl-jpp-api01",
+    "/aws/ecs/tpl-jpp-bat01"
+  ]
+}
