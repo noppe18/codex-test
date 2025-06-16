@@ -2,7 +2,7 @@
 
 ## fetch-tpl-log CLI
 
-An interactive CLI for downloading logs from CloudWatch. Written in TypeScript with a functional style using `effect`.
+An interactive CLI for downloading logs from CloudWatch. Written in TypeScript.
 
 ### Setup
 
